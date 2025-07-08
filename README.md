@@ -99,7 +99,7 @@ Loyihada quyidagi datasetlar ishlatiladi:
 
 ## Muallif
 
-Thinkly AI loyihasi [Muallif nomi] tomonidan yaratilgan.
+Thinkly AI loyihasi UzbekApis tomonidan yaratilgan.
 
 ## Litsenziya
 
