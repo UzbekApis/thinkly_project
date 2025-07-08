@@ -23,7 +23,7 @@ thinkly_project/
 # Google Colab'da yangi notebook yarating
 # Kerakli kutubxonalarni o'rnatish va modelni yuklash
 %cd /content
-!git clone https://github.com/username/thinkly_project.git
+!git clone https://github.com/UzbekApis/thinkly_project.git
 %cd thinkly_project
 !python 1_environment_setup.py
 ```
